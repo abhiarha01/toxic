@@ -4,6 +4,7 @@ main()
 add();
 {
 printf("toxic a and b=c", sum);
+printf("mc ");
 }
 sub();
 mul();
