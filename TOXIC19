@@ -2,6 +2,9 @@
 main()
 {
 add();
+{
+printf("toxic a and b=c", sum);
+}
 sub();
 mul();
 div();
